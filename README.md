@@ -1,4 +1,4 @@
-Hi - I Hate GUTHUB - Thanks :)
+
 
 <!---
 robertperly-ARIS/robertperly-ARIS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
